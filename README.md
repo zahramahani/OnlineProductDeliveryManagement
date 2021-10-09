@@ -1,11 +1,6 @@
 # OnlineProductDeliveryManagement
 java spring project 
 
-Online Product Delivery Management
--
--
--
--
 # User management
 ### Access level for admin and users
 ### Authentication method is Token based
