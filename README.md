@@ -1,8 +1,8 @@
 # OnlineProductDeliveryManagement
 java spring project 
 
-# User management
-### Access level for admin and users
+1.User management
+  - Access level for admin and users
 ### Authentication method is Token based
 ### Add/Update/Remove users for Admin
 ### Webservice :
